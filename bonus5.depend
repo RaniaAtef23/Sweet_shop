@@ -1,0 +1,197 @@
+# depslib dependency file v1.0
+1686744151 source:c:\users\hp\desktop\new version 4\bonus5\company.cpp
+	"company.h"
+	<iostream>
+
+1686948620 c:\users\hp\desktop\new version 4\bonus5\company.h
+	"customer.h"
+	<string>
+
+1686948681 c:\users\hp\desktop\new version 4\bonus5\customer.h
+	<iomanip>
+	<string>
+
+1686948681 source:c:\users\hp\desktop\new version 4\bonus5\customer.cpp
+	"customer.h"
+	<iostream>
+
+1686744128 source:c:\users\hp\desktop\new version 4\bonus5\person.cpp
+	"person.h"
+	<iostream>
+	<fstream>
+
+1686744128 c:\users\hp\desktop\new version 4\bonus5\person.h
+	"customer.h"
+
+1686948691 source:c:\users\hp\desktop\new version 4\bonus5\order.cpp
+	"order.h"
+	<iostream>
+
+1686480998 c:\users\hp\desktop\new version 4\bonus5\order.h
+	"sweets.h"
+	"customer.h"
+
+1686748713 c:\users\hp\desktop\new version 4\bonus5\sweets.h
+	"customer.h"
+	<iostream>
+
+1686749706 source:c:\users\hp\desktop\new version 4\bonus5\sweets.cpp
+	"sweets.h"
+
+1686748713 source:c:\users\hp\desktop\new version 4\bonus5\main.cpp
+	<iostream>
+	<windows.h>
+	<unistd.h>
+	<stdlib.h>
+	<string>
+	"SweetShop.h"
+	"customer.h"
+	"person.h"
+	"company.h"
+	"order.h"
+
+1686948198 c:\users\hp\desktop\new version 4\bonus5\sweetshop.h
+	<sstream>
+	<iostream>
+	<string>
+	"person.h"
+	"company.h"
+	"Sweets.h"
+	"Order.h"
+	"payment.h"
+	"cash.h"
+	"credit.h"
+	"check.h"
+	<iostream>
+	<fstream>
+
+1686948878 source:c:\users\hp\desktop\new version 4\bonus5\sweetshop.cpp
+	"SweetShop.h"
+	<unistd.h>
+
+1685484289 source:c:\users\hp\desktop\new version 4\bonus5\payment.cpp
+	"payment.h"
+
+1685483830 c:\users\hp\desktop\new version 4\bonus5\payment.h
+
+1685483876 source:c:\users\hp\desktop\new version 4\bonus5\cash.cpp
+	"cash.h"
+	<iostream>
+
+1685483853 c:\users\hp\desktop\new version 4\bonus5\cash.h
+	"payment.h"
+
+1685484012 source:c:\users\hp\desktop\new version 4\bonus5\check.cpp
+	"check.h"
+	<iostream>
+
+1685483975 c:\users\hp\desktop\new version 4\bonus5\check.h
+	<string>
+	"payment.h"
+
+1685484065 source:c:\users\hp\desktop\new version 4\bonus5\credit.cpp
+	"credit.h"
+	<iostream>
+
+1685484032 c:\users\hp\desktop\new version 4\bonus5\credit.h
+	"payment.h"
+	<string>
+
+1685483876 source:d:\bonus project\bonus5\cash.cpp
+	"cash.h"
+	<iostream>
+
+1685483853 d:\bonus project\bonus5\cash.h
+	"payment.h"
+
+1685483830 d:\bonus project\bonus5\payment.h
+
+1685484012 source:d:\bonus project\bonus5\check.cpp
+	"check.h"
+	<iostream>
+
+1685483975 d:\bonus project\bonus5\check.h
+	<string>
+	"payment.h"
+
+1686744151 source:d:\bonus project\bonus5\company.cpp
+	"company.h"
+	<iostream>
+
+1686948620 d:\bonus project\bonus5\company.h
+	"customer.h"
+	<string>
+
+1686948681 d:\bonus project\bonus5\customer.h
+	<iomanip>
+	<string>
+
+1685484065 source:d:\bonus project\bonus5\credit.cpp
+	"credit.h"
+	<iostream>
+
+1685484032 d:\bonus project\bonus5\credit.h
+	"payment.h"
+	<string>
+
+1686948681 source:d:\bonus project\bonus5\customer.cpp
+	"customer.h"
+	<iostream>
+
+1686748713 source:d:\bonus project\bonus5\main.cpp
+	<iostream>
+	<windows.h>
+	<unistd.h>
+	<stdlib.h>
+	<string>
+	"SweetShop.h"
+	"customer.h"
+	"person.h"
+	"company.h"
+	"order.h"
+
+1686948198 d:\bonus project\bonus5\sweetshop.h
+	<sstream>
+	<iostream>
+	<string>
+	"person.h"
+	"company.h"
+	"Sweets.h"
+	"Order.h"
+	"payment.h"
+	"cash.h"
+	"credit.h"
+	"check.h"
+	<iostream>
+	<fstream>
+
+1686744128 d:\bonus project\bonus5\person.h
+	"customer.h"
+
+1686748713 d:\bonus project\bonus5\sweets.h
+	"customer.h"
+	<iostream>
+
+1686480998 d:\bonus project\bonus5\order.h
+	"sweets.h"
+	"customer.h"
+
+1686948691 source:d:\bonus project\bonus5\order.cpp
+	"order.h"
+	<iostream>
+
+1685484289 source:d:\bonus project\bonus5\payment.cpp
+	"payment.h"
+
+1686949337 source:d:\bonus project\bonus5\person.cpp
+	"person.h"
+	<iostream>
+	<fstream>
+
+1686749706 source:d:\bonus project\bonus5\sweets.cpp
+	"sweets.h"
+
+1686948878 source:d:\bonus project\bonus5\sweetshop.cpp
+	"SweetShop.h"
+	<unistd.h>
+
